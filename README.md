@@ -3,3 +3,4 @@
 
 This project is about image classification using CNN model for the given cifar10 dataset. We try to make modifications in the CNN layers to see the effects of the changes on the accuracy. Many factors equally contribute to the accuracy and each paly different role. In this project we see the changes in the accuracy by playing with these factors.
 
+Load the text file(data) and notebook into same folder. Run the file
